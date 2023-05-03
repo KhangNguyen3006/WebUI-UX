@@ -1,0 +1,14 @@
+@import url(Home.css);
+
+body {
+    margin: auto;
+    padding: auto;
+    background-color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+    width: auto;
+    margin: auto;
+    padding: 0;
+}

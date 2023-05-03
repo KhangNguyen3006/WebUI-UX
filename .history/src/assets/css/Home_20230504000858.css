@@ -1,0 +1,22 @@
+.rectangle {
+    border: 4px solid #00E2EA;
+    padding: 7px;
+    box-shadow: 2px 1px 8px 3px #00E2EA;
+}
+
+.rectangle-mini {
+    border: 4px solid #00E2EA;
+    padding: 10px;
+    box-shadow: 2px 1px 8px 3px #00E2EA;
+}
+
+.rectangle-linear-gradient {
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 0px -10px 15px #ADB2AD inset;
+    background-image: linear-gradient(to bottom right, #C1DFC4, #E5F3E4);
+}
+
+.w-1200 {
+    width: 1200px;
+}

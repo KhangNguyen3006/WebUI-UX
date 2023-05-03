@@ -1,0 +1,16 @@
+@import url(Home.css);
+@import url(Rectangle.css);
+@import url(Rectangle-linear-gradient.css);
+
+body {
+    margin: auto;
+    padding: auto;
+    background-color: #000;
+}
+
+* {
+    box-sizing: border-box;
+    width: auto;
+    margin: auto;
+    padding: 0;
+}

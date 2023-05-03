@@ -1,0 +1,8 @@
+/* --------------------------------------------------------------------------- */
+
+.rectangle-linear-gradient {
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 0px -10px 20px rgba(41, 41, 41, 1) inset;
+    background-image: linear-gradient(to bottom right, #C1DFC4, #E5F3E4);
+}
